@@ -1,4 +1,4 @@
-package DesignPatterns.Factory;
+package DesignPatterns.Creational.Factory;
 
 // Factory pattern is a creational design pattern that provides an interface for creating objects without specifying their concrete classes, centralizing object creation in a factory method.
 /*

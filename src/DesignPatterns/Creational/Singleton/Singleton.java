@@ -1,4 +1,4 @@
-package DesignPatterns.Singleton;
+package DesignPatterns.Creational.Singleton;
 
 /*
 * Ensure class has only one instance and provide global point of access to that instance.
