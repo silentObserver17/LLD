@@ -13,7 +13,8 @@ package DesignPatterns.Creational.Singleton;
 * Runtime / SecurityManager in Java
 * */
 
-//In Eager Loading, the Singleton instance is created as soon as the class is loaded, regardless of whether it's ever used. Let's understand this with a real-life analogy.
+//In Eager Loading, the Singleton instance is created as soon as the class is loaded,
+// regardless of whether it's ever used. Let's understand this with a real-life analogy.
 
 import java.util.Properties;
 
