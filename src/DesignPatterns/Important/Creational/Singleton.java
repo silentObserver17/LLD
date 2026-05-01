@@ -1,4 +1,4 @@
-package DesignPatterns.Important;
+package DesignPatterns.Important.Creational;
 
 class SingletonEager{
     private static final SingletonEager INSTANCE = new SingletonEager();
